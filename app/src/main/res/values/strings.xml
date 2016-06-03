@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locassa Code Test</string>
+    <string name="title_activity_launch">Locassa Code Test</string>
+    <string name="weather_unavailable">Weather unavailable for this location</string>
+    <string name="weather_error">Error retrieving weather details</string>
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="unknown_error">Unknown server error</string>
+</resources>
